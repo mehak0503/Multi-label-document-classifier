@@ -17,11 +17,11 @@
 
 # FILES
 
-> trainClassifiers.py :- Trains the classifiers and uses utils.py, allComponents.py
-> prepareDataset.py :- Extracts features from the input file i.e. text, type, size, adjacent files.
-> utils.py :- Creates pySpark pipelines and train-test data
-> allComponents :- Provides individual components for pySpark pipeline
-> predict.py :- Takes filename input and extracts features using prepareDataset.py followed by generating predicitions and labels. 
+- trainClassifiers.py :- Trains the classifiers and uses utils.py, allComponents.py
+- prepareDataset.py :- Extracts features from the input file i.e. text, type, size, adjacent files.
+- utils.py :- Creates pySpark pipelines and train-test data
+- allComponents :- Provides individual components for pySpark pipeline
+- predict.py :- Takes filename input and extracts features using prepareDataset.py followed by generating predicitions and labels. 
 
 
 # DATA FILES
