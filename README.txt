@@ -1,12 +1,12 @@
 
-# DEPENDENCIES
+#DEPENDENCIES
 
 -> Python 3.7
 -> pip install -r requirements.txt
 
 
 
-# STEPS tO RUN
+#STEPS tO RUN
 
 1. Run predict.py in the folder containing models
 
@@ -15,7 +15,7 @@
 3. It will output the filenames along with associated labels.
 
 
-# FILES
+#FILES
 
 > trainClassifiers.py :- Trains the classifiers and uses utils.py, allComponents.py
 > prepareDataset.py :- Extracts features from the input file i.e. text, type, size, adjacent files.
@@ -24,7 +24,7 @@
 > predict.py :- Takes filename input and extracts features using prepareDataset.py followed by generating predicitions and labels. 
 
 
-# DATA FILES
+#DATA FILES
 
  - dataset.csv :- Contains text, type, size, path information for all the files in Record-Management-Data/Data. This is used as training data set for text based  and feature based classifier.
  
