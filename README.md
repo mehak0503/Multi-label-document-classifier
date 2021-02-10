@@ -1,3 +1,19 @@
+# INTRODUCTION
+
+An ensemble classifier on data containing pdf, docx and doc files in folder structures with the following components :-
+1. Classification based on document text using NLP
+2. Classification based on structure of document hierarchy
+3. classification based on document properties as file name, type, size
+
+
+# TECHNOLOGIES USED
+
+- Python
+- Spark NLP
+- Neo4j
+- Machine Learning
+- Data Science
+
 
 # DEPENDENCIES
 
