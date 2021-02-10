@@ -1,8 +1,8 @@
 
 # DEPENDENCIES
 
--> Python 3.7
--> pip install -r requirements.txt
+- Python 3.7
+- pip install -r requirements.txt
 
 
 
